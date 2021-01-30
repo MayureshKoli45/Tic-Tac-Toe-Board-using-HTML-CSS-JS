@@ -1,0 +1,34 @@
+.container1{
+    text-align: center;
+    background-color: grey;
+    border: 2px solid blue;
+    width: 50%;
+    padding: 10px 10px;
+    margin: auto;
+}
+
+#restartButton{
+    cursor: pointer;
+    border: 2px solid blue;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: lightblue;
+}
+
+#restartButton:hover{
+    background-color: lightseagreen;
+}
+
+table{
+    background-color: black;
+    margin: 10px auto;
+}
+
+td{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 2px solid black;
+    font-size: 100px;
+    background-color: white;
+}
